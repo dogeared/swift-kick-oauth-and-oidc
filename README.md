@@ -7,10 +7,11 @@
 [httpie](https://httpie.org/)
 
 [OIDC Playground - by @afitnerd](https://okta-oidc-fun.herokuapp.com)
+[OIDC Playground source code](https://github.com/oktadeveloper/okta-oidc-flows-example#okta-openid-connect-fun)
 
 [oauth.com](https://oauth.com)
 
-[JWT Parser](jsonwebtoken.io)
+[JWT Parser](https://jsonwebtoken.io)
 
 [OIDC Debugger - by @nbarbettini](https://oidcdebugger.com/)
 
